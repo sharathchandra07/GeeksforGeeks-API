@@ -4,7 +4,7 @@ A simple REST API deployed on Render that fetches user-specific data based on th
 
 ## 🔗 Live API Endpoint
 
-![https://geeksforgeeks-api.onrender.com/api/data/<user_id>]
+https://geeksforgeeks-api.onrender.com/api/data/<user_id>
 
 
 Replace `<user_id>` with a valid user ID to retrieve corresponding data.
